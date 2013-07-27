@@ -10,7 +10,7 @@
     <application
         android:label="Scratch"
         android:icon="@drawable/android:star_big_on"
-        android:theme="@android:style/Theme.Holo.Light"
+        android:theme="@style/Sherlock.__Theme.DarkActionBar"
         android:debuggable="true">
 
         <activity
@@ -23,3 +23,5 @@
         </activity>
     </application>
 </manifest>
+
+        <!--android:theme="@android:style/Theme.Holo.Light"-->
